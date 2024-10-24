@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    background-color: #F0F8FF; /* Warna latar belakang halaman */
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #ccc; /* Garis tepi foto */
+}
+
+h1 {
+    color: #333; /* Warna teks judul */
+}
+
+button {
+    background-color: #FAEBD7; /* Warna latar belakang tombol */
+    color: rgb(0, 0, 0);
+    padding: 15px  30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 4px;
+    cursor: pointer;
+    border-radius: 5px;
+}

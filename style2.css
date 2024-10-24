@@ -1,0 +1,12 @@
+.about-me, .projects, .contact {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-me h2,
+  .projects h2,
+  .contact h2 {
+    margin-top: 0;
+  }
